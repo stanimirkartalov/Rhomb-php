@@ -1,5 +1,5 @@
 <?php
-	       $n = 24;
+	     $n = (int) readline('Enter value: ');
 
             
 
